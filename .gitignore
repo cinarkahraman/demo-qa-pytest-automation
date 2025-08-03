@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+
+# Personal and temp files
+structure.txt
+*.log
+*.tmp
+
+# Test reports and outputs
+*.html
+*.xml
+report.html
+allure-results/
+allure-report/
+
+# OS files
+.DS_Store
+Thumbs.db
